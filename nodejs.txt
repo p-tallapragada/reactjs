@@ -1,0 +1,35 @@
+install node js --- nodejs.org
+ # node -v
+#
+
+ npm -v
+
+# npm install create-react-app -g
+#node -v
+
+
+
+fetch('data.json')
+    .then(response= -g
+
+        return response.json();
+    })
+    .then(data=>{
+        console.log(data);
+    })
+    .catch(e=>{
+        console.error(e);
+    })
+
+
+
+
+
+node -v
+npm -v
+
+npm install create-react-app -g
+
+cd Desktop
+
+create-react-app myp
